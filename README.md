@@ -1,5 +1,9 @@
 # NCL (National Cyber League) Study Guide
 
+<a href="https://github.com/Taylorwaldo/uncw-cyber-readme-badge">
+  <img width="200" height="38" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/UNCW-Cyber-defense-badge-(2).png" />
+</a>
+
 This repository contains a comprehensive study guide for the National Cyber League (NCL) Competition, prepared for the November 2025 competition.
 
 The guide covers nine key areas of cybersecurity:
